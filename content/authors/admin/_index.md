@@ -183,4 +183,4 @@ organizations:
 
 ## About
 
-I am pursuing my PhD under supervision of Prof. Dr. Christoph Hanck at the Chair of Econometrics, University of Duisburg-Essen. Moreover, I am associated with the [Ruhr Graduate School in Economics (RGS Econ)](https://www.rgs-econ.org/) and the [Rhine-Ruhr Center for Scientific Data Literacy (DKZ.2R)](https://www.dkz2r.de/).
+I am pursuing my PhD under supervision of Prof. Dr. Christoph Hanck at the [Chair of Econometrics, University of Duisburg-Essen](https://www.oek.wiwi.uni-due.de/en/). Moreover, I am associated with the [Ruhr Graduate School in Economics (RGS Econ)](https://www.rgs-econ.org/) and the [Rhine-Ruhr Center for Scientific Data Literacy (DKZ.2R)](https://www.dkz2r.de/).
