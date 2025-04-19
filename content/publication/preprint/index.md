@@ -18,28 +18,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: The positivity assumption is a fundamental requirement for causal inference in
-the potential outcomes framework, ensuring that all individuals have a positive prob-
-ability of receiving each treatment option. However, real-world datasets often violate
-this assumption, particularly in regions of non-overlap where one treatment group
-is underrepresented or entirely absent for certain combinations of confounding vari-
-ables. Traditional approaches, such as trimming and weighting, address these viola-
-tions but typically modify the target population, potentially introducing bias. The
-Bayesian Additive Regression Trees with Spline Models (BART+SPL) approach has
-been proposed as a solution to this issue. BART+SPL combines Bayesian Addi-
-tive Regression Trees (BART) for imputation in regions of treatment overlap with
-spline models (SPL) for extrapolation into non-overlap regions, preserving the ini-
-tial target population. However, BART+SPL’s performance is compromised when
-dealing with high-dimensional covariates. To address this limitation, this paper pro-
-poses SBART+SPL, an extension of the BART+SPL framework that integrates Soft-
-BART into the estimation procedure. SoftBART generalizes BART by implement-
-ing smooth decision rules and sparsity-inducing splitting probabilities. A simulation
-study demonstrates that SBART+SPL yields better precision and improved cover-
-age compared to BART+SPL when estimating population average treatment effects
-(PATE) in the presence of high-dimensional covariates and violations of the posi-
-tivity assumption. Additionally, the applicability of SBART+SPL is illustrated by
-re-analyzing an empirical study that evaluates the impact of exposure to natural gas
-compressor stations on cancer mortality rates across U.S. counties.
+abstract: The positivity assumption is a fundamental requirement for causal inference in the potential outcomes framework, ensuring that all individuals have a positive probability of receiving each treatment option. However, real-world datasets often violate this assumption, particularly in regions of non-overlap where one treatment group is underrepresented or entirely absent for certain combinations of confounding variables. Traditional approaches, such as trimming and weighting, address these violations but typically modify the target population, potentially introducing bias. The Bayesian Additive Regression Trees with Spline Models (BART+SPL) approach has been proposed as a solution to this issue. BART+SPL combines Bayesian Additive Regression Trees (BART) for imputation in regions of treatment overlap with spline models (SPL) for extrapolation into non-overlap regions, preserving the initial target population. However, BART+SPL’s performance is compromised when dealing with high-dimensional covariates. To address this limitation, this paper proposes SBART+SPL, an extension of the BART+SPL framework that integrates SoftBART into the estimation procedure. SoftBART generalizes BART by implementing smooth decision rules and sparsity-inducing splitting probabilities. A simulation study demonstrates that SBART+SPL yields better precision and improved coverage compared to BART+SPL when estimating population average treatment effects (PATE) in the presence of high-dimensional covariates and violations of the positivity assumption. Additionally, the applicability of SBART+SPL is illustrated by re-analyzing an empirical study that evaluates the impact of exposure to natural gas compressor stations on cancer mortality rates across U.S. counties.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
