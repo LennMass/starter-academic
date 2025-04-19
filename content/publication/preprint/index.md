@@ -27,7 +27,7 @@ abstract: The positivity assumption is a fundamental requirement for causal infe
 
 featured: true
 
-links:
+#links:
 #- name: Custom Link
 #  url: http://example.org
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
