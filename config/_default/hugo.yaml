@@ -6,7 +6,7 @@
 # Website name
 title: Lennard Maßmann
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://lennard-massmann.netlify.app/'
 
 ############################
 ## LANGUAGE
