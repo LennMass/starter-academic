@@ -24,8 +24,8 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Econometrics @UDE
+    url: https://www.oek.wiwi.uni-due.de/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -183,4 +183,4 @@ organizations:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am pursuing my PhD under supervision of Prof. Dr. Christoph Hanck at the Chair of Econometrics, University of Duisburg-Essen. Moreover, I am associated with the [Ruhr Graduate School in Economics (RGS Econ)](https://www.rgs-econ.org/) and the [Rhine-Ruhr Center for Scientific Data Literacy (DKZ.2R)](https://www.dkz2r.de/).
