@@ -59,7 +59,17 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publication/preprint
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Drafts
+      text: ""
+      filters:
+        folders:
+          - publication/draft
         exclude_featured: false
     design:
       view: citation
