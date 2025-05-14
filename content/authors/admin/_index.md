@@ -26,6 +26,8 @@ role: PhD Candidate
 organizations:
   - name: Econometrics @UDE
     url: https://www.oek.wiwi.uni-due.de/en/
+  - name: Data Literacy @DKZ.2R
+    url: https://www.dkz2r.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
