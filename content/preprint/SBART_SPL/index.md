@@ -30,7 +30,7 @@ featured: true
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ""
+url_pdf: "https://github.com/LennMass/starter-academic/blob/main/content/preprint/SBART_SPL/WP_overlapSoftBART.pdf"
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
