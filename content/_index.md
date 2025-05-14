@@ -59,7 +59,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication/preprint
+          - publication/preprint/
         exclude_featured: false
     design:
       view: citation
@@ -69,7 +69,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication/draft
+          - publication/draft/
         exclude_featured: false
     design:
       view: citation
