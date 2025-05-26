@@ -18,18 +18,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: We introduce a novel approach that combines Bayesian Causal Forests (BCF) with
-Cost-Effectiveness Analysis (CEA) to assess effect heterogeneity of a binary treatment
-under unit-varying costs. Recently, CEA Forests have been proposed to estimate
-heterogeneous effects in a frequentist setting using Generalized Random Forests (GRF).
-This approach requires, first, estimating the uplift of the cost and the outcome
-effect, and, second, differencing the unit-level effects. We translate CEA Forests
-into a Bayesian framework, which holds promise for improving accuracy, facilitating
-seamless uncertainty quantification, and more effectively capturing sparsity within
-the underlying data generating process. A simulation study illustrates guidelines for
-visual and metric-based CEA based on our approach. In comparison to the GRF-based
-method, we find that our method outperforms the GRF, especially under smoothness
-in the covariate signal and in small samples.
+abstract: We introduce a novel approach that combines Bayesian Causal Forests (BCF) with Cost-Effectiveness Analysis (CEA) to assess effect heterogeneity of a binary treatment under unit-varying costs. Recently, CEA Forests have been proposed to estimate heterogeneous effects in a frequentist setting using Generalized Random Forests (GRF). This approach requires, first, estimating the uplift of the cost and the outcome effect, and, second, differencing the unit-level effects. We translate CEA Forests into a Bayesian framework, which holds promise for improving accuracy, facilitating seamless uncertainty quantification, and more effectively capturing sparsity within the underlying data generating process. A simulation study illustrates guidelines for visual and metric-based CEA based on our approach. In comparison to the GRF-based method, we find that our method outperforms the GRF, especially under smoothness in the covariate signal and in small samples.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
