@@ -18,7 +18,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: "We investigate the impact of median-based splitting rules on the performance of causal trees for treatment effect estimation in high-dimensional settings. Building on the causal forest framework , we introduce three novel splitting rules—Median Absolute Deviation (MAD), Median Squared Deviation (MSD), and Least Median Squares (LMS), as alternatives to conventional mean-based criteria. These median-based methods offer a more robust approach to partitioning data in causal tree algorithms by reducing sensitivity to extreme values and affecting bias and precision in treatment effect estimation. Through a simulation study, we assess the precision, bias, and confidence interval coverage of our proposed methods relative to existing causal tree algorithms. Moreover, we apply the new splitting rules to the Lalonde dataset."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
