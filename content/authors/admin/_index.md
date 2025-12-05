@@ -25,7 +25,7 @@ role: PhD Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Econometrics @UDE
-    url: https://www.oek.wiwi.uni-due.de/en/
+    url: https://www.oek.wiwi.uni-due.de/
   - name: Data Literacy @DKZ.2R
     url: https://www.dkz2r.de/
 
@@ -185,4 +185,4 @@ organizations:
 
 ## About
 
-I am pursuing my PhD under supervision of Prof. Dr. Christoph Hanck at the [Chair of Econometrics, University of Duisburg-Essen](https://www.oek.wiwi.uni-due.de/en/). Moreover, I am associated with the [Ruhr Graduate School in Economics (RGS Econ)](https://www.rgs-econ.org/) and the [Rhine-Ruhr Center for Scientific Data Literacy (DKZ.2R)](https://www.dkz2r.de/). Additionally, I organize and teach workshops as a certified [Carpentries Instructor](https://carpentries.org/community/instructors/).
+I am pursuing my PhD under supervision of Prof. Dr. Christoph Hanck at the [Chair of Econometrics, University of Duisburg-Essen](https://www.oek.wiwi.uni-due.de/). Moreover, I am associated with the [Ruhr Graduate School in Economics (RGS Econ)](https://www.rgs-econ.org/) and the [Rhine-Ruhr Center for Scientific Data Literacy (DKZ.2R)](https://www.dkz2r.de/). Additionally, I organize and teach workshops as a certified [Carpentries Instructor](https://carpentries.org/community/instructors/).
