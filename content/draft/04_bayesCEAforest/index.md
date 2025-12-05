@@ -2,7 +2,6 @@
 title: "Bayesian Causal Forest for Cost-Effectiveness Analysis"
 authors:
 - admin
-- Eva-Maria Oeß
 date: "2025-04-01T00:00:00Z"
 doi: ""
 
