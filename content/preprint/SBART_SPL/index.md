@@ -2,7 +2,7 @@
 title: "Estimating PATE under positivity violations: SBART+SPL for high-dimensional covariates"
 authors:
 - admin
-date: "2025-04-19T00:00:00Z"
+date: "2026-02-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
