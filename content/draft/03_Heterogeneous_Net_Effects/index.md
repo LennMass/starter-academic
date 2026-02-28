@@ -1,5 +1,5 @@
 ---
-title: "Heterogeneous net average treatment effects"
+title: "A super learner for heterogeneous net average treatment effects"
 authors:
 - admin
 - Eva-Maria Oeß
@@ -18,7 +18,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: "We develop a method for estimating heterogeneous net treatment effects under unit-varying outcome and cost effects. Within the generalized random forest framework, we propose to minimize a joint R-loss criterion besides naive direct or two-step modeling approaches to account for differences in the complexity of the response surfaces. The final model combines the three estimation strategies using the SuperLearner approach. Additionally, we discuss an empirical application. We use data from a large nonprofit organization to analyze the net effect of a fundraising campaign for targeted policy-making to increase pledge payments while avoiding donor attrition."
+abstract: "We introduce a super learner for estimating heterogeneous net treatment effects under unit-varying outcome and cost effects. Our approach is designed for optimal assignment of a binary treatment that induces a cost–benefit trade-off. The net effect and its underlying outcome and cost components are characterized by unknown functional complexity, which our ensemble explores in a data-driven manner. Directly targeting the net effect performs well when the estimand is simpler than the outcome and cost effects individually. In contrast, separately learning both effects and subsequently aggregating them into the net effect is advantageous when the underlying components share similar functional complexity that translates into a similarly complex target estimand. A hybrid learning strategy succeeds in intermediate settings. Our ensemble nests all approaches and selects the winner by minimizing empirical risk. In a simulation study, we consider multiple scenarios in which each individual approach dominates the others and show that the ensemble further improves precision across most settings. We additionally present an empirical application using data from a large nonprofit organization, where we analyze the net effect of a fundraising campaign aimed at increasing pledge payments while mitigating donor attrition."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
