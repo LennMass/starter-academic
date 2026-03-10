@@ -3,7 +3,7 @@ title: "Estimating PATE under positivity violations: SBART+SPL for high-dimensio
 authors:
 - admin
 date: "2026-02-19T00:00:00Z"
-doi: "Accepted at PMLR"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
