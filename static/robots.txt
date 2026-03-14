@@ -1,0 +1,14 @@
+# robots.txt for Hugo Academic / Wowchemy site
+# Place this file in your repo's static/ directory
+# It will be served at yoursite.com/robots.txt
+
+User-agent: *
+Allow: /
+
+# Block crawling of content, assets, and config directories
+Disallow: /content/
+Disallow: /assets/
+Disallow: /config/
+
+# Sitemap (update the URL to match your actual site domain)
+Sitemap: https://lennard-massmann.netlify.app/
