@@ -3,7 +3,7 @@ title: "A super learner for heterogeneous net average treatment effects"
 authors:
 - admin
 - Eva-Maria Oeß
-date: "2025-04-02T00:00:00Z"
+date: "2026-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
