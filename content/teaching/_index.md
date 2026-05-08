@@ -10,14 +10,14 @@ cascade:
       show_breadcrumb: true
 
 sections:
-  - block: markdown
+  - block: collection
     id: teaching
     content:
       title: Teaching
-      text: |
-        - **Introduction to Statistics** — Undergraduate, Fall 2025
-        - **Bayesian Methods** — Graduate, Spring 2025
-        - **Research Methods** — Undergraduate, Spring 2024
+      filters:
+        folders:
+          - teaching
     design:
-      columns: "1"
+      view: article-grid
+      columns: 2
 ---
