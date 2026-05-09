@@ -73,6 +73,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    content:
+      title: 'Teaching'
+      subtitle: ''
+      text: |-
+        - **Course Title 1** — Institution, Semester Year
+        - **Course Title 2** — Institution, Semester Year
+        - **Course Title 3** — Institution, Semester Year
+    design:
+      columns: '1'
   # - block: collection
   #   id: talks
   #   content:
