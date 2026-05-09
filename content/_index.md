@@ -83,7 +83,7 @@ sections:
           - *Causal Analysis* — UDE, 2023
           - *Methods in Econometrics* — UDE, 2024/2025
           - *Descriptive Statistics* — UDE, 2024/2025
-        - Workshops
+        - **Workshops**
           - *Plotting and Programming in Python* — RWTH Aachen, 2025
           - *LaTeX for Academic Publishing* — RWTH Aachen, 2025
           - *Data Competence College* — RWTH Aachen
