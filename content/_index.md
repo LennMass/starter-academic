@@ -75,14 +75,18 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: 'Teaching'
+      title: 'Teaching & Workshops'
       subtitle: ''
       text: |-
-        <div style="font-size: 0.9em;">
-        - **Course Title 1** — Institution, Semester Year
-        - **Course Title 2** — Institution, Semester Year
-        - **Course Title 3** — Institution, Semester Year
-        </div>
+        - Teaching 
+          - **Introductory Econometrics** — UDE, 2024/2025 & 2025/2026
+          - **Causal Analysis** — UDE, 2023
+          - **Methods in Econometrics** — UDE, 2024/2025
+          - **Descriptive Statistics** — UDE, 2024/2025
+        - Workshops
+          - **Plotting and Programming in Python** — RWTH Aachen, 2025
+          - **LaTeX for Academic Publishing** — RWTH Aachen, 2025
+          - **Data Competence College** — RWTH Aachen
     design:
       columns: '1'
   # - block: collection
