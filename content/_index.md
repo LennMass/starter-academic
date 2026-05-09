@@ -78,9 +78,11 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
+        <div style="font-size: 0.9em;">
         - **Course Title 1** — Institution, Semester Year
         - **Course Title 2** — Institution, Semester Year
         - **Course Title 3** — Institution, Semester Year
+        </div>
     design:
       columns: '1'
   # - block: collection
