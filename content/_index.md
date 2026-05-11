@@ -79,14 +79,16 @@ sections:
       subtitle: ''
       text: |-
         - **Lectures & Tutorials** 
-          - *Introductory Econometrics* — UDE, 2024/2025 & 2025/2026
-          - *Causal Analysis* — UDE, 2023
+          - *Introductory Econometrics* — UDE, 2025/2026
           - *Methods in Econometrics* — UDE, 2024/2025
           - *Descriptive Statistics* — UDE, 2024/2025
+          - *Financial Econometrics* - UDE, 2024
+          - *Introductory Econometrics* — UDE, 2023/2024
+          - *Causal Analysis* — UDE, 2023
         - **Workshops**
           - *Plotting and Programming in Python* — RWTH Aachen, 2025
           - *LaTeX for Academic Publishing* — RWTH Aachen, 2025
-          - *Data Competence College* — RWTH Aachen
+          - *Data Competence College* — RWTH Aachen, 2025
     design:
       columns: '1'
   # - block: collection
