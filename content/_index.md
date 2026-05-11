@@ -75,6 +75,23 @@ sections:
       view: citation
   - block: markdown
     content:
+      title: 'Recent Presentations'
+      subtitle: ''
+      text: |-
+        - **2026** 
+          - *CausalML & Panel Data at PIK Campus* (Berlin, DE)
+          - *5th CLeaR Conference* (Cambridge, MA, US)
+          - *Economic DS Group at UniDistance*, (Brig, CH)
+          - *19th RGS Doctoral Conference* (Bochum, DE)
+        - **2025**
+          - *MEG Conference* (Urbana, IL, US)
+          - *Statistical Week* (Wiesbaden, DE)
+          - *Bristol ESG Conference* (Bristol, UK)
+          - *European Causal Inference Meeting* (Ghent, BE)
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: 'Teaching'
       subtitle: ''
       text: |-
