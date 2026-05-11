@@ -87,7 +87,7 @@ sections:
           - *Causal Analysis* — UDE, 2023
         - **Workshops**
           - *Programming in Python* — UDE, 2025
-          - *LaTeX for Academic Publishing* — RWTH Aachen & UDE, 2025
+          - *LaTeX for Publishing* — RWTH Aachen & UDE, 2025
           - *Data Competence College* — RWTH Aachen, 2025
     design:
       columns: '1'
