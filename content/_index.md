@@ -78,10 +78,11 @@ sections:
       title: 'Recent Presentations'
       subtitle: ''
       text: |-
-        - **2026** 
+        - **2026**
+          - *TRR 391 Conference, (Recklinghausen, DE)
           - *CausalML & Panel Data at PIK Campus* (Berlin, DE)
           - *5th CLeaR Conference* (Cambridge, MA, US)
-          - *Economic DS Group at UniDistance* (Brig, CH)
+          - *Econ Data Science Group at UniDistance* (Brig, CH)
           - *19th RGS Doctoral Conference* (Bochum, DE)
         - **2025**
           - *MEG Conference* (Urbana, IL, US)
