@@ -1,7 +1,7 @@
 ---
 title: "Median-based splitting rules for the causal tree"
 authors:
-- Karolina Gliszczynska
+- Karolina Gliszczyńska-Schroeder
 - admin
 date: "2025-04-19T00:00:00Z"
 doi: ""
