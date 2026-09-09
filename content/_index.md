@@ -54,7 +54,7 @@ sections:
   #    view: citation
   - block: collection
     content:
-      title: Working Paper
+      title: Publications and Preprints
       text: ""
       filters:
         folders:
