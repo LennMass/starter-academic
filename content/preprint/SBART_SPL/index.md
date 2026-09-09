@@ -28,9 +28,9 @@ abstract: The positivity assumption is a fundamental requirement for causal infe
 featured: true
 
 links:
-- name: OpenReview
-  url: 'https://openreview.net/pdf?id=v6gn5xdbu3'
-url_pdf: 'https://openreview.net/pdf?id=v6gn5xdbu3' 
+- name: PMLR
+  url: 'https://raw.githubusercontent.com/mlresearch/v323/main/assets/massmann26a/massmann26a.pdf'
+#url_pdf: 'https://openreview.net/pdf?id=v6gn5xdbu3' 
 url_code: 'https://github.com/LennMass/sbartspl'
 #url_dataset: '#'
 #url_poster: '#'
