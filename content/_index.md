@@ -44,7 +44,8 @@ sections:
   #     columns: '1'
   - block: collection
     content:
-      title: Publications
+      title: Publication
+      text: ""
       filters:
         folders:
           - publication
