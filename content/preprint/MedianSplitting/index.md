@@ -28,8 +28,9 @@ abstract: "Heavy-tailed and skewed outcomes are common in the randomized experim
 
 featured: true
 
-#links:
-#- name: Custom Link
+links:
+- name: arXiv
+  url: 'https://arxiv.org/abs/2609.07888'
 #  url: http://example.org
 url_pdf: ""
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
