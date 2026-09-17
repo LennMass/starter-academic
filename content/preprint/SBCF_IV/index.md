@@ -28,11 +28,12 @@ abstract: "We propose Shrinkage Bayesian Causal Forest with Instrumental Variabl
 
 featured: true
 
-#links:
-#- name: Custom Link
+links:
+- name: arXiv
+  url: 'http://arxiv.org/abs/2609.18903'
 #  url: http://example.org
 url_pdf: ""
-#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/jens-klenke/SBART-IV'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
